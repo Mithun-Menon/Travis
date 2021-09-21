@@ -1,0 +1,19 @@
+Language: Python
+DBMS: Mysql
+
+Libraries:
+	tkinter 
+	tkHyperlinkManager
+	bs4
+	cv2
+	urllib.request 
+	pyttsx3
+	datetime
+	mysql.connector
+	speech_recognition
+	email.message
+	wikipedia
+	webbrowser
+	os
+	random
+	smtplib
